@@ -5,4 +5,4 @@ It uses CSS animations to rotate the clock hands with the help of an SVG as the 
 JavaScript logic helps to move the hand based on the browser's time.
 
 What time is it? <br>
-https://dazzling-wright-96d587.netlify.app/
+https://dazzling-analog-clock.netlify.app/
