@@ -6,3 +6,6 @@ JavaScript logic helps to move the hand based on the browser's time.
 
 What time is it? <br>
 https://dazzling-analog-clock.netlify.app/
+
+
+*NOTE: The clock will display the local time.*
